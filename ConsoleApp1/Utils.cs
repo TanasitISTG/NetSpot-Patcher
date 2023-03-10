@@ -79,7 +79,7 @@ public class Utils
                                     {
                                         Console.WriteLine("Found call to get_GLOB_PRODUCT_NAME");
                                         instructions[instructions.IndexOf(instruction)].OpCode = OpCodes.Nop;
-                                        instructions.Insert(instructions.IndexOf(instruction) + 1, OpCodes.Ldstr.ToInstruction("Net Spot Cracked By Tana"));
+                                        instructions.Insert(instructions.IndexOf(instruction) + 1, OpCodes.Ldstr.ToInstruction("NetSpot Cracked By Tana"));
                                     }
                                     break;
                             }
