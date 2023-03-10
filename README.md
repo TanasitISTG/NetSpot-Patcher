@@ -1,8 +1,12 @@
 # NetSpot Patcher
 [NetSpot](https://www.netspotapp.com/) Patcher.
 
+# Usage
+Just open ConsoleApp1.exe and the patcher will do magic for you !
+if patcher couldn't find a path, you'll need to enter the path manually.
+
 # Details
-Tested on version 2.15.790.0, at 10 March 2023
+Tested on version 2.15.790.0, 10 March 2023
 
 # Preview
 ![preview](preview.gif)
