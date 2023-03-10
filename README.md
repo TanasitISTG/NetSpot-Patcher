@@ -1,4 +1,4 @@
-# NetSpot-Patcher
+# NetSpot Patcher
 [NetSpot](https://www.netspotapp.com/) Patcher.
 
 # Details
